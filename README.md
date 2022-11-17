@@ -18,3 +18,4 @@ Have a user type in the year they were born.
 Use their answer to tell them the generation they are a part of.
 Add emojis or a fun statement to go along with the answers if you like.
 
+This one is pretty simple!
